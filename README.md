@@ -13,7 +13,8 @@ KCI급 4편(대한전자공학회 - 1(AI), 한국통신학회 - 1(보안), Korea
 [📄Miracl 라이브러리를 이용한 안전한 1대1 채팅](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11134886) (2021)  
 --!>
 ### 개발
-![Programmers Badge](https://raw.githubusercontent.com/{Suhwan0818}/Programmers_Badge_Generator/main/result/result.svg)
+
+![Programmers Badge](https://raw.githubusercontent.com/Suhwan0818/Programmers_Badge_Generator/main/result/result.svg)
 
 <!--
 **Suhwan0818/Suhwan0818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
