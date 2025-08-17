@@ -1,7 +1,7 @@
 ### Hi there 👋  
 
 ### 논문
-SCI급 4편(IEEE - 3(AI, 보안, 보안), Electronics - 1(보안))
+SCI급 4편(IEEE - 3(AI, 보안, 보안), Electronics - 1(보안))  
 KCI급 4편(대한전자공학회 - 1(AI), 한국통신학회 - 1(보안), Korean Institute of Information Scientists and Engineers - 1(보안), 한국방송·미디어공학회 - 1(보안))
 <!--
 [📄Provably Secure PUF-Based Lightweight Mutual Authentication Scheme for Wireless Body Area Networks](https://www.mdpi.com/2079-9292/11/23/3868) (2022)
